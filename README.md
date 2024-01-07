@@ -26,7 +26,5 @@ The Spring Boot Todo Application is a web-based task management system built usi
 Username: user  
 Password: user
 
-##
-![1](https://user-images.githubusercontent.com/57569453/263540570-f58aebf0-6bc2-4b75-8fe4-563d72d63481.png)
-
-<sub>**Made by Nazar Kuziv 27.08.2023**</sub>	
+ 
+ 
