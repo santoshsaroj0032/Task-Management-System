@@ -12,7 +12,7 @@ public class Todo {
     @Id
     @GeneratedValue
      private int id;
-    private String username;
+     private String username;
      @Size(min = 10, message = "Enter at least 10 Characters")
     private String description;
     private LocalDate targetDate;
