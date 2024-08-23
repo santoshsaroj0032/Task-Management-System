@@ -66,7 +66,7 @@ public class Todo {
     }
 
       public void setIsDone(boolean done) {
-        isDone = done;
+        isDone = done; 
     }
 
     @Override
