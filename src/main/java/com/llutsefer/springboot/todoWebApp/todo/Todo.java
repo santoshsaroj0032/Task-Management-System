@@ -1,4 +1,4 @@
-  package com.llutsefer.springboot.todoWebApp.todo;
+   package com.llutsefer.springboot.todoWebApp.todo;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
