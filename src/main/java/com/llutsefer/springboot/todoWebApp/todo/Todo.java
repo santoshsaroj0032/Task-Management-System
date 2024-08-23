@@ -65,7 +65,7 @@ public class Todo {
         return isDone;
     }
 
-     public void setIsDone(boolean done) {
+      public void setIsDone(boolean done) {
         isDone = done;
     }
 
