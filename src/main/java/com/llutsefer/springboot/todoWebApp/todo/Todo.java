@@ -7,7 +7,7 @@ import jakarta.validation.constraints.Size;
 
 import java.time.LocalDate;
 
-@Entity
+ @Entity
 public class Todo {
     @Id
     @GeneratedValue
